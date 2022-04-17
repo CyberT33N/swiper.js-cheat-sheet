@@ -194,6 +194,71 @@ swiper.on('reachEnd', function(){
 
 
 
+
+
+
+<br><br>
+<br><br>
+__________________________________________________________
+
+<br><br>
+<br><br>
+
+
+# Keyboard
+
+<br><br>
+
+## Disable and enable keyboard programatically
+
+```javascript
+mySwiper.keyboard.enabled       // Whether the keyboard control is enabled
+mySwiper.keyboard.enable()      // Enable keyboard control
+mySwiper.keyboard.disable()     // Disable keyboard control
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <br><br>
 <br><br>
 __________________________________________________________
