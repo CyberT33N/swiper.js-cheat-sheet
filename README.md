@@ -82,6 +82,51 @@ const swiper = new Swiper('.mySwiper', {
 
 
 
+<br><br>
+<br><br>
+__________________________________________________________
+
+<br><br>
+<br><br>
+
+
+# Get current index of slide
+- Will be same as the active bullet of the navigation
+```
+swiper.realIndex
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <br><br>
 <br><br>
@@ -97,6 +142,30 @@ swiper.on('reachEnd', function(){
      console.log("reach to End");
 });
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
