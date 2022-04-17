@@ -124,6 +124,27 @@ swiper.realIndex
 
 
 
+<br><br>
+<br><br>
+__________________________________________________________
+
+<br><br>
+<br><br>
+
+
+# programmatically click next slide
+```
+swiper.on('reachEnd', function(){
+     swiper.slideNext()
+});
+```
+
+
+
+
+
+
+
 
 
 
