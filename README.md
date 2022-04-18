@@ -194,6 +194,66 @@ swiper.on('reachEnd', function(){
 
 
 
+<br><br>
+<br><br>
+__________________________________________________________
+
+<br><br>
+<br><br>
+
+
+# Events
+
+<br><br>
+
+## keyboard press
+
+```javascript
+swiper.on('keyPress', async() => {
+  console.log('keyPress')
+})
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
